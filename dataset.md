@@ -17,14 +17,14 @@ Datasets enable:
 1. Download the images in the data folder locally. 
 
 2. Navigate to the left pane of your workspace. Select Datasets under the Assets section.
-![datasets](./datasets2.png)
+![datasets](./dataset (1).png)
 
 3. Click on 'Create dataset' and choose 'From local files'. Name the dataset for example 'bread-pudding' and then click 'Next'. Make sure to leave the dataset type as File.(You will need to do this for each class of food that you will like to classify.)
-![](dataset2.PNG)
+![](dataset2.png)
 
 4. Click 'Browse', choose the image files you had downloaded for that class of food, and click 'Next' to create the dataset in the workspace's default Blob storage.
 
 5. Click 'Next' and select 'Create' in the "Confirm Details" section. 
-![](dataset3.PNG)
+![](dataset3.png)
 
 For more information on datasets, see the how-to for more information on creating and using Datasets. https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-register-datasets
