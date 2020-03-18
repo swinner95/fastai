@@ -17,7 +17,7 @@ Datasets enable:
 1. Download the images in the data folder locally. 
 
 2. Navigate to the left pane of your workspace. Select Datasets under the Assets section.
-![datasets](./datasets (1).png)
+![datasets](./datasets2.png)
 
 3. Click on 'Create dataset' and choose 'From local files'. Name the dataset for example 'bread-pudding' and then click 'Next'. Make sure to leave the dataset type as File.(You will need to do this for each class of food that you will like to classify.)
 ![](dataset2.PNG)
