@@ -24,7 +24,7 @@ Datasets enable:
 
 4. Click 'Browse', choose the image files you had downloaded for that class of food, and click 'Next' to create the dataset in the workspace's default Blob storage.
 
-5. Click 'Next' and select 'Create' in the "Confrim Details" section. 
+5. Click 'Next' and select 'Create' in the "Confirm Details" section. 
 ![](dataset3.PNG)
 
 For more information on datasets, see the how-to for more information on creating and using Datasets. https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-register-datasets
