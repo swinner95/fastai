@@ -1,3 +1,8 @@
+#Food 101 dataset
+We are going to use the Food 101 dataset (https://www.kaggle.com/kmader/food41#1028787.jpg ) which features 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. For the purpose of this notebook, we will be classifying amongst 5 different food categories (applie pie, waffles, padthai, bread pudding and ramen). We will be using only 200 images per food category. We will use a training set of 160 images and a validation set of 60 images for each class of food.
+
+The images are located in the 'data' folder. Each subfolder represents the class of food that you will classify. To register this data as an AML dataset, please read the 'prepare-dataset.md' file located in this folder.
+
 # Datasets and Datastores
 
 The AzureML studio allows the user to manage their dataset and datastores directly inside the portal. 
