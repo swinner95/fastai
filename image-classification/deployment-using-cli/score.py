@@ -36,10 +36,3 @@ def run(request):
     pred = str(prediction[index])
     print(pred)
     return pred
-
-
-# if __name__ == "__main__":
-#     init()  
-#     request = { "url": "https://i.imgur.com/TqlREOJ.jpg"}
-#     run(request)
-#     print("main")
