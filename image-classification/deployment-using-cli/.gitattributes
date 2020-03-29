@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+C:/Users/shwinne/Documents/GitHub/fastai/image-classification/deployment-using-cli/* filter=lfs diff=lfs merge=lfs -text
